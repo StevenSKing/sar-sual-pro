@@ -9,7 +9,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 - 项目是基于 `create-react-app` 脚手架搭建的后台管理系统（react18 版本），所有页面及功能采用函数式组件及 hooks 实现。
 
-- 项目预览：https://admin.cins.cc （账号、密码任意）
+- 项目预览：http://tv.52expo.top （账号、密码任意）
 
 - 所用技术/UI 框架
   - 脚手架：`create-react-app`
